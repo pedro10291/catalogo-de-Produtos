@@ -1,0 +1,257 @@
+[{
+        "id": 1,
+        "nome": "camiseta box fit",
+        "marca": "Aimé Leon Dore",
+        "descricao": "Modelagem pra todo momento",
+        "preco": "149.90",
+        "ïmagem": "camiseta-sktada-box-fit.webp"
+    },
+    {
+        "id": 2,
+        "nome": "tee genesis block",
+        "marca": "Satoshi Nakamoto Inc.",
+        "descricao": "A peça que dá início a tudo",
+        "preco": "189.90",
+        "imagem": "tee-genesis-block.webp"
+    },
+    {
+        "id": 3,
+        "nome": "tee peer to peer",
+        "marca": "Satoshi Nakamoto Inc.",
+        "descricao": "Conexões autênticas sem intermediários",
+        "preco": "179.90",
+        "imagem": "tee-peer-to-peer.webp"
+    },
+    {
+        "id": 4,
+        "nome": "box fit protocol",
+        "marca": "Fear of God",
+        "descricao": "Design construído sobre fundamentos sólidos",
+        "preco": "199.90",
+        "imagem": "box-fit-protocol.webp"
+    },
+    {
+        "id": 5,
+        "nome": "oversized consensus",
+        "marca": "Represent",
+        "descricao": "Aprovado pela cultura urbana",
+        "preco": "219.90",
+        "imagem": "oversized-consensus.webp"
+    },
+    {
+        "id": 6,
+        "nome": "tee decentralize",
+        "marca": "Satoshi Nakamoto Inc.",
+        "descricao": "Independência como estilo de vida",
+        "preco": "189.90",
+        "imagem": "tee-decentralize.webp"
+    },
+    {
+        "id": 7,
+        "nome": "hoodie cold wallet",
+        "marca": "Off-White",
+        "descricao": "Proteção máxima para dias frios",
+        "preco": "329.90",
+        "imagem": "hoodie-cold-wallet.webp"
+    },
+    {
+        "id": 8,
+        "nome": "hoodie satoshi club",
+        "marca": "Satoshi Nakamoto Inc.",
+        "descricao": "Para quem entende o código",
+        "preco": "349.90",
+        "imagem": "hoodie-satoshi-club.webp"
+    },
+    {
+        "id": 9,
+        "nome": "crewneck mainnet",
+        "marca": "Kith",
+        "descricao": "Versão definitiva do essencial",
+        "preco": "299.90",
+        "imagem": "crewneck-mainnet.webp"
+    },
+    {
+        "id": 10,
+        "nome": "jacket node runner",
+        "marca": "Represent",
+        "descricao": "Movimento constante, presença sólida",
+        "preco": "459.90",
+        "imagem": "jacket-node-runner.webp"
+    },
+    {
+        "id": 11,
+        "nome": "windbreaker hashrate",
+        "marca": "Kith",
+        "descricao": "Performance urbana elevada",
+        "preco": "429.90",
+        "imagem": "windbreaker-hashrate.webp"
+    },
+    {
+        "id": 12,
+        "nome": "linen shirt manhattan",
+        "marca": "Aimé Leon Dore",
+        "descricao": "Inspirada nos verões de Nova York",
+        "preco": "299.90",
+        "imagem": "linen-shirt-manhattan.webp"
+    },
+    {
+        "id": 13,
+        "nome": "polo queens",
+        "marca": "Aimé Leon Dore",
+        "descricao": "Elegância casual das ruas nova-iorquinas",
+        "preco": "229.90",
+        "imagem": "polo-queens.webp"
+    },
+    {
+        "id": 14,
+        "nome": "trouser downtown",
+        "marca": "Fear of God",
+        "descricao": "Minimalismo refinado para qualquer cenário",
+        "preco": "389.90",
+        "imagem": "trouser-downtown.webp"
+    },
+    {
+        "id": 15,
+        "nome": "carpenter ledger",
+        "marca": "Off-White",
+        "descricao": "Funcionalidade registrada em cada detalhe",
+        "preco": "359.90",
+        "imagem": "carpenter-ledger.webp"
+    },
+    {
+        "id": 16,
+        "nome": "track blockchain",
+        "marca": "Represent",
+        "descricao": "Estrutura forte, conforto absoluto",
+        "preco": "299.90",
+        "imagem": "track-blockchain.webp"
+    },
+    {
+        "id": 17,
+        "nome": "short market open",
+        "marca": "Kith",
+        "descricao": "Leveza para acompanhar seu ritmo",
+        "preco": "169.90",
+        "imagem": "short-market-open.webp"
+    },
+    {
+        "id": 18,
+        "nome": "tee upper east",
+        "marca": "Aimé Leon Dore",
+        "descricao": "Luxo discreto inspirado em Manhattan",
+        "preco": "199.90",
+        "imagem": "tee-upper-east.webp"
+    },
+    {
+        "id": 19,
+        "nome": "tee mulberry street",
+        "marca": "Aimé Leon Dore",
+        "descricao": "A energia criativa do centro urbano",
+        "preco": "189.90",
+        "imagem": "tee-mulberry-street.webp"
+    },
+    {
+        "id": 20,
+        "nome": "batik athens",
+        "marca": "Kith",
+        "descricao": "Referência à elegância mediterrânea",
+        "preco": "329.90",
+        "imagem": "batik-athens.webp"
+    },
+    {
+        "id": 21,
+        "nome": "tee digital gold",
+        "marca": "Satoshi Nakamoto Inc.",
+        "descricao": "Valor construído ao longo do tempo",
+        "preco": "189.90",
+        "imagem": "tee-digital-gold.webp"
+    },
+    {
+        "id": 22,
+        "nome": "hoodie proof of work",
+        "marca": "Represent",
+        "descricao": "Resultado de dedicação e processo",
+        "preco": "359.90",
+        "imagem": "hoodie-proof-of-work.webp"
+    },
+    {
+        "id": 23,
+        "nome": "tee scarcity",
+        "marca": "Fear of God",
+        "descricao": "Exclusividade em cada detalhe",
+        "preco": "199.90",
+        "imagem": "tee-scarcity.webp"
+    },
+    {
+        "id": 24,
+        "nome": "jacket validator",
+        "marca": "Off-White",
+        "descricao": "Autenticidade acima das tendências",
+        "preco": "489.90",
+        "imagem": "jacket-validator.webp"
+    },
+    {
+        "id": 25,
+        "nome": "cap genesis",
+        "marca": "Satoshi Nakamoto Inc.",
+        "descricao": "O início de uma nova narrativa",
+        "preco": "119.90",
+        "imagem": "cap-genesis.webp"
+    },
+    {
+        "id": 26,
+        "nome": "tee whitepaper",
+        "marca": "Satoshi Nakamoto Inc.",
+        "descricao": "Onde toda grande ideia começa",
+        "preco": "189.90",
+        "imagem": "tee-whitepaper.webp"
+    },
+    {
+        "id": 27,
+        "nome": "box fit sovereign",
+        "marca": "Fear of God",
+        "descricao": "Liberdade traduzida em design",
+        "preco": "209.90",
+        "imagem": "box-fit-sovereign.webp"
+    },
+    {
+        "id": 28,
+        "nome": "hoodie citadel",
+        "marca": "Represent",
+        "descricao": "Construído para resistir ao tempo",
+        "preco": "379.90",
+        "imagem": "hoodie-citadel.webp"
+    },
+    {
+        "id": 29,
+        "nome": "tee liberty avenue",
+        "marca": "Kith",
+        "descricao": "Inspirada pela energia das grandes cidades",
+        "preco": "199.90",
+        "imagem": "tee-liberty-avenue.webp"
+    },
+    {
+        "id": 30,
+        "nome": "overshirt greenwich",
+        "marca": "Aimé Leon Dore",
+        "descricao": "Sofisticação discreta para qualquer ocasião",
+        "preco": "339.90",
+        "imagem": "overshirt-greenwich.webp"
+    },
+    {
+        "id": 31,
+        "nome": "jacket black edition",
+        "marca": "Fear of God",
+        "descricao": "Minimalismo absoluto em sua forma mais pura",
+        "preco": "499.90",
+        "imagem": "jacket-black-edition.webp"
+    },
+    {
+        "id": 32,
+        "nome": "tee finite supply",
+        "marca": "Satoshi Nakamoto Inc.",
+        "descricao": "Criada para quem entende o valor da escassez",
+        "preco": "209.90",
+        "imagem": "tee-finite-supply.webp"
+    }
+]
