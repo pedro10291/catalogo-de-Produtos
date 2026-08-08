@@ -5,6 +5,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Catálogo</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.1/src/regular/style.css" />
+    <script src="js/produtos.js" defer></script>
 </head>
 
 <body>
@@ -12,22 +15,18 @@
         <div class="logo">
             Loja
         </div>
-        <nav class="filtros">
-            <input type="text" id="busca" placeholder="Pesquisar produto...">
-            <select id="marca">
-            <option value="">Todas as marcas</option>
-           </select>
-            <select id="ordenar">
-            <option value="">Ordenar</option>
-            <option value="nome">Nome de A a Z</option>
-            <option value="menor">Menro Preço</option>
-            <option value="maior">Maior Preço</option>
-           </select>
-        </nav>
     </header>
     <main>
-        <section id="produtos"></section>
-        <nav id="paginacao"></nav>
+        <a href="index.html" class="voltar"></a>
+        <section id="produto">
+
+        </section>
+        <section class="relacionados">
+            <h2>Produtos Relacionados</h2>
+            <div id="relacionados">
+
+            </div>
+        </section>
     </main>
     <footer>
         <ul>

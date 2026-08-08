@@ -3,7 +3,7 @@ const paginacao = document.getElementById('paginacao')
 
 const Busca = document.getElementById('busca')
 const Marca = document.getElementById('marca')
-const ordenar = document.getElementById('ordenar')
+const Ordenar = document.getElementById('ordenar')
 
 let produtos = []
 let produtosFiltrados = []
@@ -14,7 +14,7 @@ let paginaAtual = 1
 async function carregaProdutos() {
     const response = await fetch("data/produtos.json")
     produtos = await response.json()
-    produtosfiltrados = [...produtos]
+    produtosFiltrados = [...produtos]
     preencherMarcas()
     atualizarCatalogo()
 }
@@ -24,33 +24,34 @@ function preencherMarcas() {
         ...new Set(produtos.map(produto => produto.marca))
     ]
     marcas.sort()
-    marcas.forEacho(marca => {
-        Marca.innerHTML += `<option value=${marca}.${marca}</option>`
+    marcas.forEach(marca => {
+        Marca.innerHTML += `<option value="${marca}">${marca}</option>`
     })
 }
 
 function aplicarFiltros() {
-    const busca = Busca.ariaValueMax.toLowerCase
+    const busca = Busca.value.toLowerCase()
     const marca = Marca.value
     produtosFiltrados = produtos.filter(produto => {
         const nomeValido = produto.nome.toLowerCase().includes(busca)
         const marcaValida = marca === "" || produto.marca === marca
         return nomeValido && marcaValida
     })
-    ordenar.Produtos()
+    ordenarProdutos()
 }
 
 function ordenarProdutos() {
     const criterio = Ordenar.value
     switch (criterio) {
         case 'nome':
-            produtosFiltrados.sort((a, b) => nome.localCompare(b.nome))
+            produtosFiltrados.sort((a, b) => nome.localeCompare(b.nome))
             break
         case 'menor':
             produtosFiltrados.sort((a, b) => a.preco - b.preco)
             break
         case 'maior':
-            produtosFiltrados.sort((a, b))
+            produtosFiltrados.sort((a, b) => b.preco - a.preco)
+            break
     }
 }
 
@@ -60,19 +61,23 @@ function renderizarPagina() {
     const fim = inicio + itensPorPagina
     const produtosPagina = produtosFiltrados.slice(inicio, fim)
     produtosPagina.forEach(produto => {
-        const precoReal = produto.preco.toLocalString('pt-BR', {
+        const precoReal = produto.preco.toLocaleString('pt-BR', {
             style: 'currency',
             currency: 'BRL'
         })
         produtosContainer.innerHTML += `
         <div class="card">
-            <a href="detalhe.html?id=${produto.id}">
-            <img src="produtos/${produto.imagem}" alt="${produto.nome}">
-            <div class="card-content">
+        <a href="detalhe.html?id=${produto.id}">
+        <div class="foto">
+        <img src="produtos/${produto.imagem}" alt="${produto.nome}">
+    </div>
+        <div class="card-content">
             <h3>${produto.nome}</h3>
             <p>${produto.marca}</p>
-            <p class="class="preco">${produto.preco}</p>
+            <p class="preco">${precoReal}</p>
         </div>
+    </a>
+</div>
         `
     })
 }
@@ -83,7 +88,7 @@ function renderizaPaginacao() {
     for (let i = 1; i <= totalPaginas; i++) {
         const botao = document.createElement('button')
         botao.textContent = i
-        if (i == paginaAtual) {
+        if (i === paginaAtual) {
             botao.classList.add('ativo')
         }
         botao.addEventListener('click', () => {

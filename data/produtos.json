@@ -1,257 +1,321 @@
 [{
         "id": 1,
-        "nome": "camiseta box fit",
+        "nome": "Camiseta Box Fit",
         "marca": "Aimé Leon Dore",
-        "descricao": "Modelagem pra todo momento",
-        "preco": "149.90",
-        "ïmagem": "camiseta-sktada-box-fit.webp"
+        "descricao": "Modelagem box fit confortável para todo momento, confeccionada em algodão premium de alta durabilidade.",
+        "preco": 149.90,
+        "imagem": "sktada-box-fit.webp"
     },
     {
         "id": 2,
-        "nome": "tee genesis block",
+        "nome": "Tee Genesis Block",
         "marca": "Satoshi Nakamoto Inc.",
-        "descricao": "A peça que dá início a tudo",
-        "preco": "189.90",
+        "descricao": "A peça que dá início a tudo. Estampa exclusiva em serigrafia de alta definição celebrando o primeiro bloco.",
+        "preco": 189.90,
         "imagem": "tee-genesis-block.webp"
     },
     {
         "id": 3,
-        "nome": "tee peer to peer",
+        "nome": "Tee Peer To Peer",
         "marca": "Satoshi Nakamoto Inc.",
-        "descricao": "Conexões autênticas sem intermediários",
-        "preco": "179.90",
+        "descricao": "Conexões autênticas sem intermediários. Design minimalista com corte contemporâneo para uso diário.",
+        "preco": 179.90,
         "imagem": "tee-peer-to-peer.webp"
     },
     {
         "id": 4,
-        "nome": "box fit protocol",
+        "nome": "Box Fit Protocol",
         "marca": "Fear of God",
-        "descricao": "Design construído sobre fundamentos sólidos",
-        "preco": "199.90",
+        "descricao": "Design construído sobre fundamentos sólidos, com caimento estruturado e gola reforçada.",
+        "preco": 199.90,
         "imagem": "box-fit-protocol.webp"
     },
     {
         "id": 5,
-        "nome": "oversized consensus",
+        "nome": "Oversized Consensus",
         "marca": "Represent",
-        "descricao": "Aprovado pela cultura urbana",
-        "preco": "219.90",
+        "descricao": "Aprovado pela cultura urbana. Modelagem oversized com gramatura pesada, ideal para sobreposições.",
+        "preco": 219.90,
         "imagem": "oversized-consensus.webp"
     },
     {
         "id": 6,
-        "nome": "tee decentralize",
+        "nome": "Tee Decentralize",
         "marca": "Satoshi Nakamoto Inc.",
-        "descricao": "Independência como estilo de vida",
-        "preco": "189.90",
+        "descricao": "Independência como estilo de vida. Estampa frontal icônica em tecido macio e respirável.",
+        "preco": 189.90,
         "imagem": "tee-decentralize.webp"
     },
     {
         "id": 7,
-        "nome": "hoodie cold wallet",
+        "nome": "Hoodie Cold Wallet",
         "marca": "Off-White",
-        "descricao": "Proteção máxima para dias frios",
-        "preco": "329.90",
+        "descricao": "Proteção máxima para dias frios. Moletom flanelado com bolso frontal e detalhes em acabamento industrial.",
+        "preco": 329.90,
         "imagem": "hoodie-cold-wallet.webp"
     },
     {
         "id": 8,
-        "nome": "hoodie satoshi club",
+        "nome": "Hoodie Satoshi Club",
         "marca": "Satoshi Nakamoto Inc.",
-        "descricao": "Para quem entende o código",
-        "preco": "349.90",
+        "descricao": "Para quem entende o código. Capuz ajustável com forro duplo e estampa temática em alto relevo.",
+        "preco": 349.90,
         "imagem": "hoodie-satoshi-club.webp"
     },
     {
         "id": 9,
-        "nome": "crewneck mainnet",
+        "nome": "Crewneck Mainnet",
         "marca": "Kith",
-        "descricao": "Versão definitiva do essencial",
-        "preco": "299.90",
+        "descricao": "Versão definitiva do essencial. Blusa de moletom com corte clássico e costuras reforçadas.",
+        "preco": 299.90,
         "imagem": "crewneck-mainnet.webp"
     },
     {
         "id": 10,
-        "nome": "jacket node runner",
+        "nome": "Jacket Node Runner",
         "marca": "Represent",
-        "descricao": "Movimento constante, presença sólida",
-        "preco": "459.90",
+        "descricao": "Movimento constante, presença sólida. Jaqueta técnica leve com resistência a vento e múltiplos bolsos funcionais.",
+        "preco": 459.90,
         "imagem": "jacket-node-runner.webp"
     },
     {
         "id": 11,
-        "nome": "windbreaker hashrate",
+        "nome": "Windbreaker Hashrate",
         "marca": "Kith",
-        "descricao": "Performance urbana elevada",
-        "preco": "429.90",
+        "descricao": "Performance urbana elevada. Corta-vento com tratamento hidrorrepelente e design aerodinâmico.",
+        "preco": 429.90,
         "imagem": "windbreaker-hashrate.webp"
     },
     {
         "id": 12,
-        "nome": "linen shirt manhattan",
+        "nome": "Linen Shirt Manhattan",
         "marca": "Aimé Leon Dore",
-        "descricao": "Inspirada nos verões de Nova York",
-        "preco": "299.90",
+        "descricao": "Inspirada nos verões de Nova York. Camisa em linho leve de alta qualidade, perfeita para climas quentes.",
+        "preco": 299.90,
         "imagem": "linen-shirt-manhattan.webp"
     },
     {
         "id": 13,
-        "nome": "polo queens",
+        "nome": "Polo Queens",
         "marca": "Aimé Leon Dore",
-        "descricao": "Elegância casual das ruas nova-iorquinas",
-        "preco": "229.90",
+        "descricao": "Elegância casual das ruas nova-iorquinas. Polo em malha piquet com gola estruturada e detalhes bordados.",
+        "preco": 229.90,
         "imagem": "polo-queens.webp"
     },
     {
         "id": 14,
-        "nome": "trouser downtown",
+        "nome": "Trouser Downtown",
         "marca": "Fear of God",
-        "descricao": "Minimalismo refinado para qualquer cenário",
-        "preco": "389.90",
+        "descricao": "Minimalismo refinado para qualquer cenário. Calça com corte alfaiataria em tecido de caimento fluido.",
+        "preco": 389.90,
         "imagem": "trouser-downtown.webp"
     },
     {
         "id": 15,
-        "nome": "carpenter ledger",
+        "nome": "Carpenter Ledger",
         "marca": "Off-White",
-        "descricao": "Funcionalidade registrada em cada detalhe",
-        "preco": "359.90",
+        "descricao": "Funcionalidade registrada em cada detalhe. Calça utilitária com múltiplos bolsos e reforço nos joelhos.",
+        "preco": 359.90,
         "imagem": "carpenter-ledger.webp"
     },
     {
         "id": 16,
-        "nome": "track blockchain",
+        "nome": "Track Blockchain",
         "marca": "Represent",
-        "descricao": "Estrutura forte, conforto absoluto",
-        "preco": "299.90",
+        "descricao": "Estrutura forte, conforto absoluto. Calça esportiva com design moderno, elástico na cintura e zíperes nas barras.",
+        "preco": 299.90,
         "imagem": "track-blockchain.webp"
     },
     {
         "id": 17,
-        "nome": "short market open",
+        "nome": "Short Market Open",
         "marca": "Kith",
-        "descricao": "Leveza para acompanhar seu ritmo",
-        "preco": "169.90",
+        "descricao": "Leveza para acompanhar seu ritmo. Short casual confeccionado em tecido tecnológico de secagem rápida.",
+        "preco": 449.90,
         "imagem": "short-market-open.webp"
     },
     {
         "id": 18,
-        "nome": "tee upper east",
+        "nome": "Tee Upper East",
         "marca": "Aimé Leon Dore",
-        "descricao": "Luxo discreto inspirado em Manhattan",
-        "preco": "199.90",
+        "descricao": "Luxo discreto inspirado em Manhattan. Camiseta básica de corte impecável em algodão egípcio.",
+        "preco": 199.90,
         "imagem": "tee-upper-east.webp"
     },
     {
         "id": 19,
-        "nome": "tee mulberry street",
+        "nome": "Tee Mulberry Street",
         "marca": "Aimé Leon Dore",
-        "descricao": "A energia criativa do centro urbano",
-        "preco": "189.90",
+        "descricao": "A energia criativa do centro urbano. Estampa minimalista em peça de corte moderno e atemporal.",
+        "preco": 189.90,
         "imagem": "tee-mulberry-street.webp"
     },
     {
         "id": 20,
-        "nome": "batik athens",
+        "nome": "Batik Athens",
         "marca": "Kith",
-        "descricao": "Referência à elegância mediterrânea",
-        "preco": "329.90",
+        "descricao": "Referência à elegância mediterrânea. Camisa com padronagem exclusiva, inspirada em técnicas artesanais.",
+        "preco": 329.90,
         "imagem": "batik-athens.webp"
     },
     {
         "id": 21,
-        "nome": "tee digital gold",
+        "nome": "Tee Digital Gold",
         "marca": "Satoshi Nakamoto Inc.",
-        "descricao": "Valor construído ao longo do tempo",
-        "preco": "189.90",
+        "descricao": "Valor construído ao longo do tempo. Camiseta com design marcante, ideal para composições casuais.",
+        "preco": 189.90,
         "imagem": "tee-digital-gold.webp"
     },
     {
         "id": 22,
-        "nome": "hoodie proof of work",
+        "nome": "Hoodie Proof Of Work",
         "marca": "Represent",
-        "descricao": "Resultado de dedicação e processo",
-        "preco": "359.90",
+        "descricao": "Resultado de dedicação e processo. Moletom premium com estampa traseira expressiva e corte oversized.",
+        "preco": 359.90,
         "imagem": "hoodie-proof-of-work.webp"
     },
     {
         "id": 23,
-        "nome": "tee scarcity",
+        "nome": "Tee Scarcity",
         "marca": "Fear of God",
-        "descricao": "Exclusividade em cada detalhe",
-        "preco": "199.90",
+        "descricao": "Exclusividade em cada detalhe. Peça fundamental com acabamento a fio e modelagem box exclusiva.",
+        "preco": 199.90,
         "imagem": "tee-scarcity.webp"
     },
     {
         "id": 24,
-        "nome": "jacket validator",
+        "nome": "Jacket Validator",
         "marca": "Off-White",
-        "descricao": "Autenticidade acima das tendências",
-        "preco": "489.90",
+        "descricao": "Autenticidade acima das tendências. Jaqueta robusta com metais personalizados e detalhes em patch.",
+        "preco": 489.90,
         "imagem": "jacket-validator.webp"
     },
     {
         "id": 25,
-        "nome": "cap genesis",
+        "nome": "Cap Genesis",
         "marca": "Satoshi Nakamoto Inc.",
-        "descricao": "O início de uma nova narrativa",
-        "preco": "119.90",
+        "descricao": "O início de uma nova narrativa. Boné estruturado com aba curva e ajuste traseiro de alta precisão.",
+        "preco": 119.90,
         "imagem": "cap-genesis.webp"
     },
     {
         "id": 26,
-        "nome": "tee whitepaper",
+        "nome": "Tee Whitepaper",
         "marca": "Satoshi Nakamoto Inc.",
-        "descricao": "Onde toda grande ideia começa",
-        "preco": "189.90",
+        "descricao": "Onde toda grande ideia começa. Camiseta com estampa conceitual em malha premium macia.",
+        "preco": 189.90,
         "imagem": "tee-whitepaper.webp"
     },
     {
         "id": 27,
-        "nome": "box fit sovereign",
+        "nome": "Box Fit Sovereign",
         "marca": "Fear of God",
-        "descricao": "Liberdade traduzida em design",
-        "preco": "209.90",
+        "descricao": "Liberdade traduzida em design. Camiseta com modelagem solta e gola alta característica da marca.",
+        "preco": 209.90,
         "imagem": "box-fit-sovereign.webp"
     },
     {
         "id": 28,
-        "nome": "hoodie citadel",
+        "nome": "Hoodie Citadel",
         "marca": "Represent",
-        "descricao": "Construído para resistir ao tempo",
-        "preco": "379.90",
+        "descricao": "Construído para resistir ao tempo. Moletom de alta gramatura, com toque aveludado e costura reforçada.",
+        "preco": 379.90,
         "imagem": "hoodie-citadel.webp"
     },
     {
         "id": 29,
-        "nome": "tee liberty avenue",
+        "nome": "Tee Liberty Avenue",
         "marca": "Kith",
-        "descricao": "Inspirada pela energia das grandes cidades",
-        "preco": "199.90",
+        "descricao": "Inspirada pela energia das grandes cidades. Estampa urbana em peça de caimento leve e sofisticado.",
+        "preco": 199.90,
         "imagem": "tee-liberty-avenue.webp"
     },
     {
         "id": 30,
-        "nome": "overshirt greenwich",
+        "nome": "Overshirt Greenwich",
         "marca": "Aimé Leon Dore",
-        "descricao": "Sofisticação discreta para qualquer ocasião",
-        "preco": "339.90",
+        "descricao": "Sofisticação discreta para qualquer ocasião. Sobreposição versátil com botões em madrepérola e tecido encorpado.",
+        "preco": 339.90,
         "imagem": "overshirt-greenwich.webp"
     },
     {
         "id": 31,
-        "nome": "jacket black edition",
+        "nome": "Jacket Black Edition",
         "marca": "Fear of God",
-        "descricao": "Minimalismo absoluto em sua forma mais pura",
-        "preco": "499.90",
+        "descricao": "Minimalismo absoluto em sua forma mais pura. Jaqueta bomber de design limpo com acabamento matte.",
+        "preco": 499.90,
         "imagem": "jacket-black-edition.webp"
     },
     {
         "id": 32,
-        "nome": "tee finite supply",
+        "nome": "Tee Finite Supply",
         "marca": "Satoshi Nakamoto Inc.",
-        "descricao": "Criada para quem entende o valor da escassez",
-        "preco": "209.90",
+        "descricao": "Criada para quem entende o valor da escassez. Edição limitada com estampa minimalista frontal.",
+        "preco": 209.90,
         "imagem": "tee-finite-supply.webp"
+    },
+    {
+        "id": 33,
+        "nome": "Hoodie Liberty",
+        "marca": "Kith",
+        "descricao": "Inspirada pela energia das grandes cidades. Moletom confortável com design icônico e bolso canguru amplo.",
+        "preco": 349.90,
+        "imagem": "hoodie.webp"
+    },
+    {
+        "id": 34,
+        "nome": "Over",
+        "marca": "Aimé Leon Dore",
+        "descricao": "Sofisticação discreta para qualquer ocasião. Camisa sobreposição estruturada em algodão de alta qualidade.",
+        "preco": 339.90,
+        "imagem": "over.webp"
+    },
+    {
+        "id": 35,
+        "nome": "Jacket",
+        "marca": "Fear of God",
+        "descricao": "Minimalismo absoluto em sua forma mais pura. Jaqueta casual com fechamento oculto e design clean.",
+        "preco": 499.90,
+        "imagem": "jacket.webp"
+    },
+    {
+        "id": 36,
+        "nome": "Tee Finite Supply",
+        "marca": "Satoshi Nakamoto Inc.",
+        "descricao": "Criada para quem entende o valor da escassez. Versão compacta com gráfico exclusivo em tecido respirável.",
+        "preco": 209.90,
+        "imagem": "tee-fin.webp"
+    },
+    {
+        "id": 37,
+        "nome": "Hoodie Black Protocol",
+        "marca": "Satoshi Nakamoto Inc.",
+        "descricao": "Conforto e exclusividade em uma peça criada para mentes visionárias. Moletom de corte moderno e estampa técnica.",
+        "preco": 399.90,
+        "imagem": "hoodie-black-protocol.webp"
+    },
+    {
+        "id": 38,
+        "nome": "14kt Gold Jade Signet Ring",
+        "marca": "Aimé Leon Dore",
+        "descricao": "Uma joia inspirada em novos começos e grandes revoluções. Anel de sinete em ouro 14k com incrustação de jade natural.",
+        "preco": 12549.90,
+        "imagem": "14k.webp"
+    },
+    {
+        "id": 39,
+        "nome": "Shoulder Bag",
+        "marca": "Satoshi Nakamoto Inc.",
+        "descricao": "Design funcional para quem transforma movimento em estilo. Bolsa transversal resistente com compartimentos internos organizados.",
+        "preco": 2329.90,
+        "imagem": "shoulder.webp"
+    },
+    {
+        "id": 40,
+        "nome": "Longsleeve Silent Code",
+        "marca": "Satoshi Nakamoto Inc.",
+        "descricao": "Minimalismo e identidade em uma construção atemporal. Camiseta manga longa com corte estruturado e tecido térmico leve.",
+        "preco": 259.90,
+        "imagem": "longsleeve-silent-code.webp"
     }
 ]
