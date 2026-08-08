@@ -314,6 +314,28 @@
                     justify-content: center;
                 }
             }
+                    .relacionados {
+                #relacionados {
+                    flex-wrap: wrap;
+                    justify-content: center;
+                    gap: 1rem;
+                    
+                    .cardRel {
+                        width: 48%; /* Exibe 2 produtos por linha no celular com ótimo espaçamento */
+                    }
+                }
+            }
+        }
+
+        @media (max-width: 600px) {
+            .relacionados {
+                #relacionados {
+                    .cardRel {
+                        width: 100%; /* Ocupa 1 coluna em telas muito estreitas, se preferir */
+                    }
+                }
+            }
+        }
 
             #produto {
                 .prodDetalhe {
@@ -354,7 +376,7 @@
                     }
                 }
             }
-
+            
             .relacionados {
                 #relacionados {
                     flex-wrap: wrap;
