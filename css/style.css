@@ -145,7 +145,7 @@
                     }
                     &.ativo {
                         background-color: var(--cor-texto);
-                        color: var(--cor-fund);
+                        color: var(--cor-fundo);
                     }
                 }
             }
